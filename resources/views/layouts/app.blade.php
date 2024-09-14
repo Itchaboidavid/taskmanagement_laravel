@@ -13,6 +13,9 @@
     <link rel="stylesheet" href="//cdn.datatables.net/2.1.4/css/dataTables.dataTables.min.css">
     <script src="//cdn.datatables.net/2.1.4/js/dataTables.min.js"></script>
 
+    {{-- Google Chart --}}
+    <script src="https://www.gstatic.com/charts/loader.js"></script>
+
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
